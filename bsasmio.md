@@ -3,7 +3,7 @@ layout: archive
 author_profile: true
 ---
 
-# <customtitle> Quienes somos </customtitle>
+<customtitle> Quienes somos </customtitle>
 
 Somos guias de turismo con especializacion en CABA. Apasionadas por nuestra ciudad estamos orgullosas de mostrarles sus rincones tradicionales y los pocos conocidos.
 

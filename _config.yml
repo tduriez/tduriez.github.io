@@ -20,7 +20,7 @@ title                    : "BSAS Mio"
 title_separator          : "-"
 subtitle                 : Turismo
 name                     : "BSAS Mio Turismo"
-description              : "Acompañanos a discubrir la ciudad"
+description              : "Visitas guiadas - tours / Guided tours / Visites et parcours guidés"
 url                      : "https://bsasmio.com"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"

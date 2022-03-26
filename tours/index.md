@@ -1,6 +1,7 @@
 ---
 layout: archive
 author_profile: true
+lang: es
 ---
 
 # City tours

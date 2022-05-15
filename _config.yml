@@ -108,7 +108,7 @@ author:
   location         : "Buenos Aires"
   email            :
   phone1           : "+54 11 4198-8158"
-  phone2           : "+54 11 6752-0973"
+  phone2           : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
